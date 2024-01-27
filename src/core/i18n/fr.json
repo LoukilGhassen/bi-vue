@@ -1,0 +1,222 @@
+{
+  "welcome": "Bonjour, Bienvenue à la page d'accueil !",
+  "users": "Utlisateurs",
+  "usersManagement": "Gestion des utlisateurs",
+  "login": {
+    "title": "Connexion",
+    "newHere": "Nouveau ici",
+    "register": "Créer un compte",
+    "or": "ou"
+  },
+  "messages": {
+    "loginFailed": "Veuillez vérifier votre email et votre mot de passe",
+    "signUpFailed": "L'inscription a échoué",
+    "wrongConfirmPassword": "Les mots de passe ne sont pas identiques",
+    "shortPassword": "Le mot de passe doit contenir au moins 8 caractères"
+  },
+  "email": "E-mail",
+  "password": "Mot de passe",
+  "confirmPassword": "Confirmez le mot de passe",
+  "firstName": "Prénom",
+  "lastName": "Nom",
+  "forgotPassword": "Mot de passe oublié",
+  "signIn": "Se connecter",
+  "newPassword": "Nouveau mot de passe",
+  "createAccount": "Créer un compte",
+  "role": "Role",
+  "alreadyHaveAnAccount": "Vous avez déjà un compte",
+  "signInRedirection": "Connectez-vous",
+  "signUp": "S'inscrire",
+  "signUpInterface": {
+    "title": "Créer un Compte",
+    "signUp": "S'identifier ici"
+  },
+  "submit": "Soumettre",
+  "cancel": "Annuler",
+  "resetPassword": "Réinitialiser le mot de passe",
+  "msgResetPasswordInterface": {
+    "title": "Réinitialiser Votre Mot de Passe",
+    "msg": "Veuillez visiter votre email, vous recevrez un email pour réinitialiser votre mot de passe."
+  },
+  "resetPasswordInterface": {
+    "title": "Réinitialiser Votre Mot de Passe",
+    "msg": "Entrez votre nouveau mot de passe"
+  },
+  "emailResetPasswordInterface": {
+    "title": "Mot de passe oublié",
+    "msg": "Saisissez votre email pour réinitialiser votre mot de passe"
+  },
+  "entityForm": {
+    "title": {
+      "create": "créer",
+      "edit": "editer"
+    },
+    "fields": {
+      "date": "Choisissez une date",
+      "time": "Choisissez une heure"
+    },
+    "buttonsContent": {
+      "confirm": "confirmer",
+      "cancel": "Annuler"
+    },
+    "validation": {
+      "required": "Ce champ est requis",
+      "length": "La longueur doit être d'au moins 3 caractères",
+      "NumberType": "Ce champ doit être un nombre",
+      "fileSize": "Taille maximale est 10 Mo",
+      "fileType": "Type de fichier non supporté"
+    }
+  },
+  "error404": {
+    "returnHome": "Rentrer à la page d'accueil",
+    "message": "On dirait qu'il n'y a rien ici"
+  },
+  "error403": {
+    "returnHome": "Rentrer à la page d'accueil",
+    "message": "Oups Accès refusé !"
+  },
+  "detail": {
+    "back": "back"
+  },
+  "entityList": {
+    "pagination": {
+      "display": "Affichage :",
+      "items": "Éléments",
+      "itemsPerPage": "Éléments par page"
+    }
+  },
+  "confirmModal": {
+    "deleteContent": "Vous êtes sur le point de supprimer ",
+    "banTitle": "Desactiver un utilisateur",
+    "unbanTitle": "Reactiver un utilisateur",
+    "deleteTitle": "Suppression",
+    "buttonsContent": {
+      "confirm": "confirmer",
+      "cancel": "Annuler"
+    },
+    "banUser": "Êtes-vous sûr de vouloir desactiver cet utilisateur",
+    "unbanUser": "Êtes-vous sûr de vouloir reactiver cet utilisateur"
+  },
+  "dropDown": {
+    "seeMore": "Voir plus",
+    "deleteWidget": "Supprimer le widget",
+    "reduceView": "Réduire la vue",
+    "extendView": "Agrandir la vue",
+    "rdv": "Rendez-vous",
+    "visit": "Visite",
+    "contact": "Contact",
+    "administratifEvent": "Évènement administratif",
+    "otherEvent": "Autre évènement",
+    "pds": "Un professionnel de santé",
+    "congres": "Un congrès",
+    "entity": "Une entité",
+    "eds": "Un établissement de santé",
+    "pharmacy": "Une pharmacie"
+  },
+  "nextRdv": {
+    "nextRdv": "Rendez-vous en cours",
+    "lastVisit": "Dernière visite le",
+    "importance": "Importance",
+    "nbVisit": "visite(s) depuis le début d'année",
+    "productVGA": "produits sur l'UGA",
+    "visitType": "Type de visite",
+    "reason": "Motif",
+    "objectif": "Objectif",
+    "accessVisit": "Accéder à la fiche visite"
+  },
+  "subMenu": {
+    "account": "Compte",
+    "profil": "Mon Profil",
+    "import": "Importer des données ",
+    "teams": "Equipes",
+    "contact": "Contacter le support",
+    "marketingSupport": "Support marketing",
+    "signOut": "Deconnexion",
+    "administration": "Administration"
+  },
+  "visitFrequency": {
+    "title": "Fréquence de visite",
+    "lastVisit": "Dernière visite le",
+    "monthVisit": "Visite(s) ce mois-ci",
+    "yearVisit": "Visite(s) cette année",
+    "expect": "A prevoir",
+    "avoid": "A èviter"
+  },
+  "dataTablePopover": {
+    "visit": {
+      "edit": "Modifier la visite",
+      "duplicate": "Dupliquer la visite",
+      "delete": "Supprimer la visite",
+      "view": "Voir la fiche de contact"
+    },
+    "contact": {
+      "edit": "Modifier la fiche",
+      "duplicate": "Dupliquer la fiche",
+      "delete": "Supprimer la fiche",
+      "view": "M’y rendre"
+    },
+    "activity": {
+      "edit": "Modifier",
+      "duplicate": "Dupliquer",
+      "delete": "Supprimer"
+    },
+    "product": {
+      "edit": "Modifier le produit",
+      "delete": "Supprimer le produit"
+    },
+    "replacement": {
+      "edit": "Modifier le remplaçant",
+      "delete": "Supprimer le remplaçant"
+    },
+    "service": {
+      "edit": "Modifier le service",
+      "duplicate": "Dupliquer le service",
+      "delete": "Supprimer le service",
+      "viewTeam": "Voir l’équipe"
+    },
+    "attachedDoctorService": {
+      "edit": "Modifier le contact",
+      "sendMsg": "Envoyer un message",
+      "delete": "Supprimer de l’équipe",
+      "addVisit": "Ajouter une visite"
+    },
+    "document": {
+      "edit": "Voir le document",
+      "duplicate": "Dupliquer le document",
+      "delete": "Supprimer le document",
+      "view": "Voir le document",
+      "download": " Telecharger le document"
+    },
+    "attachedDoctor": {
+      "edit": "Modifier le médecin",
+      "delete": "Supprimer le médecin "
+    },
+    "user": {
+      "edit": "Modifier l'utilisateur",
+      "duplicate": "Dupliquer l'utilisateur",
+      "delete": "Supprimer l'utilisateur"
+    },
+    "wholeSaler": {
+      "delete": "Supprimer"
+    },
+    "role": {
+      "edit": "Modifier"
+    },
+    "userTeam": {
+      "delete": "Supprimer l'utilisateur"
+    },
+    "delegate": {
+      "edit": "Modifier"
+    },
+    "actorProduct": {
+      "edit": "Modifier",
+      "duplicate": "Dupliquer"
+    },
+    "membres": {
+      "delete": "Supprimer"
+    },
+    "list": {
+      "edit": "Modifier"
+    }
+  }
+}

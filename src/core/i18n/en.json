@@ -1,0 +1,171 @@
+{
+  "welcome": "Hello User, Welcome on Home Page!",
+  "users": "users",
+  "usersManagement": "Users Managements",
+  "login": {
+    "title": "Sign In",
+    "newHere": "New here",
+    "register": "Register",
+    "or": "or"
+  },
+  "messages": {
+    "loginFailed": "Login failed please check your email and password",
+    "signUpFailed": "Sign Up failed",
+    "wrongConfirmPassword": "Confirm password is incorrect",
+    "shortPassword": "Password must contain at least 8 characters"
+  },
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "newPassword": "New password",
+  "forgotPassword": "Forgot password",
+  "signIn": "Sign In",
+  "createAccount": "Create account",
+  "role": "Role",
+  "alreadyHaveAnAccount": "Already have an account",
+  "signInRedirection": "Sign In",
+  "signUpInterface": {
+    "title": "Create an Account",
+    "signUp": "Sign Up"
+  },
+  "signUp": "Sign Up",
+  "submit": "Submit",
+  "cancel": "Cancel",
+  "resetPassword": "Reset password",
+  "msgResetPasswordInterface": {
+    "title": "Reset Password",
+    "msg": "Please check your email, you will receive email to reset your password"
+  },
+  "resetPasswordInterface": {
+    "title": "Reset Password",
+    "msg": "Enter your new password"
+  },
+  "emailResetPasswordInterface": {
+    "title": "Forgot Password",
+    "msg": "Enter your email to reset your password"
+  },
+  "entityForm": {
+    "title": {
+      "create": "create",
+      "edit": "edit"
+    },
+    "fields": {
+      "date": "Pick a date",
+      "time": "Pick a time"
+    },
+    "buttonsContent": {
+      "confirm": "confirm",
+      "cancel": "cancel"
+    },
+    "validation": {
+      "required": "This field is required",
+      "length": "Length should be at least 3 characters",
+      "NumberType": "this field must be a number",
+      "fileSize": "Max size 10Mo",
+      "fileType": "unsupported file type"
+    }
+  },
+  "error404": {
+    "returnHome": "Return Home",
+    "message": "Seems there is nothing here"
+  },
+  "error403": {
+    "returnHome": "Rentrer à la page d'accueil",
+    "message": "Oups Access Denied !"
+  },
+  "detail": {
+    "back": "back"
+  },
+  "entityList": {
+    "pagination": {
+      "display": "Display :",
+      "items": "Items",
+      "itemsPerPage": "Items per page"
+    }
+  },
+  "confirmModal": {
+    "deleteContent": "Are you sure you want to delete",
+    "deleteTitle": "Delete",
+    "banTitle": "Ban User",
+    "buttonsContent": {
+      "confirm": "confirm",
+      "cancel": "cancel"
+    },
+    "banUser": "Are you sure you want to ban this user",
+    "unbanUser": "Are you sure you want to unban this user"
+  },
+  "dropDown": {
+    "seeMore": "See More",
+    "deleteWidget": "Delete Widget",
+    "reduceView": "Reduce view",
+    "extendView": "Extend view",
+    "rdv": "Meeting",
+    "visit": "Visit",
+    "contact": "Contact",
+    "administratifEvent": "Administrative event",
+    "otherEvent": "Other event",
+    "pds": "Healthcare professional",
+    "congres": "A congress",
+    "entity": "An entity",
+    "eds": "A healthcare establishment",
+    "pharmacy": "A pharmacy"
+  },
+  "nextRdv": {
+    "nextRdv": "Next Meeting",
+    "lastVisit": "Last Visit on",
+    "importance": "Importance",
+    "nbVisit": "visit(s) since the beginning of the year",
+    "productVGA": "products on the UGA",
+    "visitType": "Visit Type",
+    "reason": "Reason",
+    "objectif": "Objective",
+    "accessVisit": "Access Visit Record"
+  },
+  "subMenu": {
+    "account": "Account",
+    "profil": "My Profile",
+    "import": "Import Data",
+    "teams": "Teams",
+    "contact": "Contact Support",
+    "marketingSupport": "Marketing Support",
+    "signOut": "Sign Out",
+    "administration": "administration"
+  },
+  "visitFrequency": {
+    "title": "Visit Frequency",
+    "lastVisit": "Last Visit on",
+    "monthVisit": "Visit(s) this month",
+    "yearVisit": "Visit(s) this year",
+    "expect": "Expected",
+    "avoid": "To avoid"
+  },
+  "dataTablePopover": {
+    "visit": {
+      "edit": "Edit visit",
+      "duplicate": "Duplicate visit",
+      "delete": "Delete visit",
+      "view": "See contact sheet"
+    },
+    "contact": {
+      "edit": "Edit record",
+      "duplicate": "Duplicate record",
+      "delete": "Delete record",
+      "view": "Get there"
+    },
+    "activity": {
+      "edit": "Edit",
+      "duplicate": "Duplicate",
+      "delete": "Delete"
+    },
+    "attachedDoctor":{
+      "edit": "Edit doctor",
+      "delete": "Delete doctor "
+    },
+    "wholeSaler": {
+      "delete": "Delete"
+    }
+
+  }
+}

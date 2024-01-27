@@ -1,0 +1,10 @@
+$theme-colors:(
+    primary: $primary-500,
+    secondary: $secondary-500,
+    success: $success-500,
+    info: $info-500,
+    warning: $warning-500,
+    danger: $danger-500,
+);
+
+@include json-encode($theme-colors);
